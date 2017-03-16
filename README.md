@@ -1,4 +1,3 @@
-# form-lenguaje-natural
-Formulario de lenguaje natural.
+# Formulario de lenguaje natural
 
 Tomado de [Codrops](https://tympanus.net/codrops/2013/05/21/natural-language-form-with-custom-input-elements/).
